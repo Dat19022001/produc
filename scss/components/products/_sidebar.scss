@@ -50,6 +50,19 @@
         height: 6px;
         margin: 26px 0 23px;
         z-index: 1;
+        &::before{
+            position: absolute;
+            content: "";
+            z-index: -1;
+            left: 32px;
+            top: 0;
+            bottom: auto;
+            right: auto;
+            width: 122px;
+            height: 6px;
+            border-radius: 10px;
+            background: #494949;
+        }
     }
     &__dot{
         position: absolute;

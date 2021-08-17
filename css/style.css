@@ -206,6 +206,20 @@ a {
   z-index: 1;
 }
 
+.sidebar__boder::before {
+  position: absolute;
+  content: "";
+  z-index: -1;
+  left: 32px;
+  top: 0;
+  bottom: auto;
+  right: auto;
+  width: 122px;
+  height: 6px;
+  border-radius: 10px;
+  background: #494949;
+}
+
 .sidebar__dot {
   position: absolute;
   left: 21px;
