@@ -113,7 +113,7 @@ a {
 .top__body--path {
   font-size: 14px;
   line-height: 16px;
-  font-weight: 200;
+  font-weight: 500;
   overflow: hidden;
   color: #383838;
   margin: 0 0 20px;
@@ -469,7 +469,7 @@ a {
 .right__text {
   color: #a5a5a5;
   padding: 2px 0 0;
-  font-weight: 300;
+  font-weight: 500;
   overflow: hidden;
 }
 
