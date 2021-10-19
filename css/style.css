@@ -255,6 +255,10 @@ a {
   margin: 0 0 38px;
 }
 
+.sidebar__categories h2 {
+  color: #494949;
+}
+
 .sidebar__categories ul {
   margin: 0;
   padding: 0 0 2px;
@@ -291,6 +295,10 @@ a {
 
 .sidebar__sale {
   margin: 0 0 38px;
+}
+
+.sidebar__sale h2 {
+  color: #494949;
 }
 
 .sidebar__sale1 {

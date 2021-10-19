@@ -95,6 +95,9 @@
     //categories;
     &__categories{
         margin: 0 0 38px;
+        h2{
+            color: #494949;
+        }
         ul{
             margin: 0;
             padding: 0 0 2px;
@@ -125,6 +128,9 @@
         font-weight: 700;
     }
     &__sale{
+        h2{
+            color: #494949;
+        }
         margin: 0 0 38px;
     }
     &__sale1{
